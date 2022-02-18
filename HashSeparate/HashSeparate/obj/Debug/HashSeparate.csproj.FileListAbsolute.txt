@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\HashSeparate\HashSeparate\bin\Debug\HashSeparate.exe.config
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\HashSeparate\HashSeparate\bin\Debug\HashSeparate.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\HashSeparate\HashSeparate\bin\Debug\HashSeparate.pdb
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\HashSeparate\HashSeparate\obj\Debug\HashSeparate.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\HashSeparate\HashSeparate\obj\Debug\HashSeparate.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\HashSeparate\HashSeparate\obj\Debug\HashSeparate.pdb

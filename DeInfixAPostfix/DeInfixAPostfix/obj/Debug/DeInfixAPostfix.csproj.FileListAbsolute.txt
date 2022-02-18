@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\DeInfixAPostfix\DeInfixAPostfix\bin\Debug\DeInfixAPostfix.exe.config
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\DeInfixAPostfix\DeInfixAPostfix\bin\Debug\DeInfixAPostfix.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\DeInfixAPostfix\DeInfixAPostfix\bin\Debug\DeInfixAPostfix.pdb
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\DeInfixAPostfix\DeInfixAPostfix\obj\Debug\DeInfixAPostfix.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\DeInfixAPostfix\DeInfixAPostfix\obj\Debug\DeInfixAPostfix.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\DeInfixAPostfix\DeInfixAPostfix\obj\Debug\DeInfixAPostfix.pdb

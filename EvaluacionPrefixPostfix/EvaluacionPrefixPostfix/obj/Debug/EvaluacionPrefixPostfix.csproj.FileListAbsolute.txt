@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\EvaluacionPrefixPostfix\EvaluacionPrefixPostfix\bin\Debug\EvaluacionPrefixPostfix.exe.config
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\EvaluacionPrefixPostfix\EvaluacionPrefixPostfix\bin\Debug\EvaluacionPrefixPostfix.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\EvaluacionPrefixPostfix\EvaluacionPrefixPostfix\bin\Debug\EvaluacionPrefixPostfix.pdb
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\EvaluacionPrefixPostfix\EvaluacionPrefixPostfix\obj\Debug\EvaluacionPrefixPostfix.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\EvaluacionPrefixPostfix\EvaluacionPrefixPostfix\obj\Debug\EvaluacionPrefixPostfix.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\EvaluacionPrefixPostfix\EvaluacionPrefixPostfix\obj\Debug\EvaluacionPrefixPostfix.pdb

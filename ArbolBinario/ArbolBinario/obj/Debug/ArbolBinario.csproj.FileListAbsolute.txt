@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe.config
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.pdb
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.pdb

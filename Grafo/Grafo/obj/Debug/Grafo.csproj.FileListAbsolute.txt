@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Grafo\Grafo\bin\Debug\Grafo.exe.config
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Grafo\Grafo\obj\Debug\Grafo.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Grafo\Grafo\bin\Debug\Grafo.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Grafo\Grafo\bin\Debug\Grafo.pdb
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Grafo\Grafo\obj\Debug\Grafo.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Grafo\Grafo\obj\Debug\Grafo.pdb

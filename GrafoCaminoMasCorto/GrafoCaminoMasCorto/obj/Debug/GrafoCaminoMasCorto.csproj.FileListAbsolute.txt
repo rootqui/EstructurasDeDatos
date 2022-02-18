@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\GrafoCaminoMasCorto\GrafoCaminoMasCorto\bin\Debug\GrafoCaminoMasCorto.exe.config
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\GrafoCaminoMasCorto\GrafoCaminoMasCorto\bin\Debug\GrafoCaminoMasCorto.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\GrafoCaminoMasCorto\GrafoCaminoMasCorto\bin\Debug\GrafoCaminoMasCorto.pdb
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\GrafoCaminoMasCorto\GrafoCaminoMasCorto\obj\Debug\GrafoCaminoMasCorto.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\GrafoCaminoMasCorto\GrafoCaminoMasCorto\obj\Debug\GrafoCaminoMasCorto.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\GrafoCaminoMasCorto\GrafoCaminoMasCorto\obj\Debug\GrafoCaminoMasCorto.pdb

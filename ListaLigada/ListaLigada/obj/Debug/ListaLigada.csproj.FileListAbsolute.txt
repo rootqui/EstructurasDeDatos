@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\ListaLigada\ListaLigada\bin\Debug\ListaLigada.exe.config
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\ListaLigada\ListaLigada\bin\Debug\ListaLigada.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\ListaLigada\ListaLigada\bin\Debug\ListaLigada.pdb
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\ListaLigada\ListaLigada\obj\Debug\ListaLigada.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\ListaLigada\ListaLigada\obj\Debug\ListaLigada.pdb

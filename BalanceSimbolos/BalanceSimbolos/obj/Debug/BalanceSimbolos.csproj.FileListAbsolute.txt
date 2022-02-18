@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\BalanceSimbolos\BalanceSimbolos\bin\Debug\BalanceSimbolos.exe.config
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\BalanceSimbolos\BalanceSimbolos\bin\Debug\BalanceSimbolos.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\BalanceSimbolos\BalanceSimbolos\bin\Debug\BalanceSimbolos.pdb
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\BalanceSimbolos\BalanceSimbolos\obj\Debug\BalanceSimbolos.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\BalanceSimbolos\BalanceSimbolos\obj\Debug\BalanceSimbolos.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\BalanceSimbolos\BalanceSimbolos\obj\Debug\BalanceSimbolos.pdb

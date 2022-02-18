@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Queue\Queue\bin\Debug\Queue.exe.config
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Queue\Queue\bin\Debug\Queue.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Queue\Queue\bin\Debug\Queue.pdb
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Queue\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Queue\Queue\obj\Debug\Queue.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Queue\Queue\obj\Debug\Queue.pdb

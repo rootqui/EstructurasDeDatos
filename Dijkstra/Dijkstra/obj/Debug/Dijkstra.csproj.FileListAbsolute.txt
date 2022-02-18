@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe.config
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Dijkstra\Dijkstra\bin\Debug\Dijkstra.pdb
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Dijkstra\Dijkstra\obj\Debug\Dijkstra.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Dijkstra\Dijkstra\obj\Debug\Dijkstra.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Dijkstra\Dijkstra\obj\Debug\Dijkstra.pdb

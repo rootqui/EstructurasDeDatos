@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Stack\Stack\obj\Debug\Stack.pdb

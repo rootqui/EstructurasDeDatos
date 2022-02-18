@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\ArbolGenerico\ArbolGenerico\bin\Debug\ArbolGenerico.exe.config
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\ArbolGenerico\ArbolGenerico\bin\Debug\ArbolGenerico.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\ArbolGenerico\ArbolGenerico\bin\Debug\ArbolGenerico.pdb
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\ArbolGenerico\ArbolGenerico\obj\Debug\ArbolGenerico.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\ArbolGenerico\ArbolGenerico\obj\Debug\ArbolGenerico.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\ArbolGenerico\ArbolGenerico\obj\Debug\ArbolGenerico.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Heap\Heap\bin\Debug\Heap.exe.config
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Heap\Heap\bin\Debug\Heap.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Heap\Heap\bin\Debug\Heap.pdb
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Heap\Heap\obj\Debug\Heap.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Heap\Heap\obj\Debug\Heap.exe
+C:\Users\User\Desktop\Prjt\2. En Proceso\Estructura de Datos CSharp\Heap\Heap\obj\Debug\Heap.pdb
